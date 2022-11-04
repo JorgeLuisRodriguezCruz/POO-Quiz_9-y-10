@@ -8,7 +8,7 @@ public class Algoritmo_Uno extends Algoritmo {
 
 	@Override
 	void printAlgoritmo(String pVideo) {
-		System.out.println("Algoritmo: "+this.tipo+" genera una descripcion de lo que pasa en el video -> "+pVideo);
+		System.out.println("Algoritmo: " + this.tipo + " 1 ");
 	}
 
 }
