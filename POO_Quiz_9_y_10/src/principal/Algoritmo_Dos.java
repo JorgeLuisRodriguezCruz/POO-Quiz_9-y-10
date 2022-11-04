@@ -8,7 +8,7 @@ public class Algoritmo_Dos extends Algoritmo {
 
 	@Override
 	void printAlgoritmo(String pVideo) {
-		System.out.println("Algoritmo: "+this.tipo+" genera los subtitulos del video -> "+pVideo);
+		System.out.println("Algoritmo: "+this.tipo+ " 2 ");
 	}
 
 }
