@@ -2,13 +2,11 @@ package principal;
 
 public class Algoritmo_Dos extends Algoritmo {
 
-	Algoritmo_Dos (String pTipo) {
-		super(pTipo);
-	}
+	Algoritmo_Dos (String pTipo) {}
 
 	@Override
-	void printAlgoritmo(String pVideo) {
-		System.out.println("Algoritmo: "+this.tipo+ " 2 ");
+	void printAlgoritmo() {
+		System.out.println("Algoritmo: "+ " 2 ");
 	}
 
 }

@@ -1,12 +1,9 @@
 package principal;
 
 public abstract class Algoritmo {
-	protected String tipo;
 	
-	Algoritmo (String pTipo) {
-		this.tipo = pTipo;
-	}
+	Algoritmo () {}
 	
-	abstract void printAlgoritmo (String pVideo);
+	abstract void printAlgoritmo ();
 
 }
